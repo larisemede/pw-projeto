@@ -18,10 +18,10 @@
     padding: 10px;
     margin-bottom: 10px;
     text-decoration: none;
-    color: #0fd830;
+    color: #ebeceb;
     font-size: 1.5rem;
 }
 
 .Menu li a:hover {
-    background-color: #529c59;
+    background-color: #ca3939;
 }

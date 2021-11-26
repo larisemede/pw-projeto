@@ -3,13 +3,9 @@ import React from "react"
 const Detalhes = props => (
     <div>
         <h1>Detalhes</h1>
-        
-        <h2>Um jovem programador é atormentado por estranhos pesadelos nos quais sempre está 
-            conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a 
-            levantar dúvidas sobre a realidade. E quando encontra os misteriosos Morpheus e Trinity, ele descobre que é vítima do
-             Matrix, um sistema inteligente e artificial que manipula a mente das pessoas e cria a ilusão de um mundo real enquanto 
-             usa os cérebros e corpos dos indivíduos para produzir energia.</h2>
-    </div>
+   <h2> Alimentação saudável é uma dieta bem equilibrada, que fornece os nutrientes, vitaminas e minerais nas proporções adequadas para o bom funcionamento do organismo. 
+        Para que uma alimentação seja saudável, é importante ter variedade, equilíbrio, controle de quantidade (comer o que lhe é adequado) e qualidade dos alimentos.</h2>
+         </div>
 
 )
 

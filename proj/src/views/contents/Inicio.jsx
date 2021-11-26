@@ -4,7 +4,7 @@ const Inicio = props => (
     <div>
         <h1>Projeto PWII</h1>
         <br />
-        <h2>Matrix</h2> 
+        <h2>Alimentação</h2> 
     </div>
 )
 
